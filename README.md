@@ -17,3 +17,6 @@ PRs are always welcome to improve the system.
 - Check whether library is empty or not
 - List titles of the books
 - Find the oldest book in the library
+- Get input from user
+- Write the name and year of the book in the csv file
+- Read book's name and year from csv file
